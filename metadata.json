@@ -1,0 +1,6 @@
+{
+  "name": "Sine Premium Lottery",
+  "description": "An offline-first premium local-database lottery application supporting tickets, admin draws, and payments via Telebirr or Chapa simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
